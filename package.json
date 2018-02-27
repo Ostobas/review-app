@@ -1,0 +1,25 @@
+{
+  "name": "review-app",
+  "version": "1.0.0",
+  "description": "Make views about everything",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ostobas/review-app.git"
+  },
+  "keywords": [
+    "review",
+    "movies",
+    "books"
+  ],
+  "author": "Krisz Magyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ostobas/review-app/issues"
+  },
+  "homepage": "https://github.com/Ostobas/review-app#readme"
+}
